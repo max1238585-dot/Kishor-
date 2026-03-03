@@ -1,0 +1,5 @@
+{
+  "name": "Shadow Alliance Comic Creator",
+  "description": "Generate cinematic comic book style animated videos with AI narration and epic visuals.",
+  "requestFramePermissions": ["microphone"]
+}
